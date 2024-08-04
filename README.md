@@ -7,25 +7,17 @@ Começando
 
     Clone o repositório:
 
-    bash
-
-git clone https://github.com/Lucas-H-Coelho/boilerplate-TypeScript-eslint-prettier.git
+    git clone https://github.com/Lucas-H-Coelho/boilerplate-TypeScript-eslint-prettier.git
 
 # Navegue até o diretório do projeto:
 
-bash
-
-cd boilerplate-TypeScript-eslint-prettier
+    cd boilerplate-TypeScript-eslint-prettier
 
 # Instale as dependências:
 
-bash
-
-npm install
+    npm install
 
 # Inicie o ambiente de desenvolvimento:
-
-bash
 
     npm run dev
 
@@ -48,12 +40,3 @@ bash
     ESLint: Configurado para garantir a qualidade e a consistência do código.
     Prettier: Configurado para formatar automaticamente o código e manter um estilo consistente.
 
-# Contribuição
-
-Contribuições são bem-vindas! Para contribuir com melhorias ou correções, por favor, siga estas etapas:
-
-    Faça um fork do repositório.
-    Crie uma nova branch (git checkout -b minha-branch).
-    Faça suas alterações e commit (git commit -am 'Adiciona nova funcionalidade').
-    Faça push para a branch (git push origin minha-branch).
-    Abra uma pull request.
